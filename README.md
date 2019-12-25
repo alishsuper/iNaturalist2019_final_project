@@ -55,5 +55,5 @@ The images and annotations can be downloaded at [iNaturalist 2019](https://www.k
 
 ```bash
 # Convert from the original format of iNaturalist
-python tools/convert_from_iNat.py --file train2018.json --root /home/iNat18/images --sp /home/BBN/jsons
+python tools/convert_from_iNat.py --file train2019.json --root iNat19/images --sp jsons
 ```
