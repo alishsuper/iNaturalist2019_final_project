@@ -14,9 +14,7 @@ This repository is based on the official PyTorch implementation of paper [BBN: B
 
 ## Pretrain models for iNaturalist
 
-We provide the BBN pretrain models for iNaturalist 2018.
-
-iNaturalist 2018: [Google Drive](https://drive.google.com/open?id=18aT-eIpmxQMP9PrNOB1Q5Vjmzr7tvEdb)
+We provide the BBN pretrain models for iNaturalist 2018: [Google Drive](https://drive.google.com/open?id=18aT-eIpmxQMP9PrNOB1Q5Vjmzr7tvEdb)
 
   ## Usage
 ```bash
